@@ -31,7 +31,7 @@ facebook_username: hyunkook
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-primer
+theme: minima
 #theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
