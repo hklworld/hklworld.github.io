@@ -4,3 +4,6 @@
 
 layout: home
 ---
+<font size="8"> Welcome to Dr Hyunkook Lee's blog </font>
+
+<img src="/assets/images/hyunkook1.jpg" alt="">

@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hyunkook Lee
+title: Welcome to HKLWORLD
 email: h.lee@hud.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Hyunkook Lee's personal website. Visit www.hyunkooklee.com for my his
+  This is Dr Hyunkook Lee's personal website. Visit www.hyunkooklee.com for my his
   profile page at the University of Huddersfield.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
